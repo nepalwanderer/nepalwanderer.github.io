@@ -109,9 +109,9 @@ strong, b {
 img {
   max-width: 100%;
   border-radius: 5px;
-  padding:8px;
-  border:4px solid #ababab;
-  background-color:#ffffff;
+  padding: 8px;
+  border: 4px solid #ababab;
+  background-color: #ffffff;
 }
 
 .date {
@@ -175,7 +175,11 @@ img {
   }
 
   img {
-    border-radius: 5px;    
+    max-width: 100%;
+    border-radius: 5px;
+    padding: 8px;
+    border: 4px solid #ababab;
+    background-color: #ffffff;    
   }
 }
 
