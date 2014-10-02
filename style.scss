@@ -110,7 +110,7 @@ img {
   max-width: 100%;
   border-radius: 5px;
   padding: 8px;
-  border: 4px solid #ababab;
+  border: 3px solid $imageBorder;
   background-color: #ffffff;
 }
 
@@ -184,7 +184,7 @@ img {
     max-width: 100%;
     border-radius: 5px;
     padding: 8px;
-    border: 4px solid $imageBorder;
+    border: 3px solid $imageBorder;
     background-color: #ffffff;    
   }
 }
