@@ -17,9 +17,8 @@ permalink: /tags/
 
     <h4> {{ tag }} </h4>
 
-    {% for post in site.tags[tag] %}
-
     <article class="post">    
+    {% for post in site.tags[tag] %}
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
@@ -27,9 +26,8 @@ permalink: /tags/
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-
     {% endfor %}
+    </article>
 
   {% endfor %}
 </div>
