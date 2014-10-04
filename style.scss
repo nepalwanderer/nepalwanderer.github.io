@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -126,7 +126,7 @@ img {
 }
 
 .tag-name {
-  font-size: 15px;
+  font-size: 18px;
   color: $white;
   background-color: $red;
   border-radius: 5px;
@@ -259,7 +259,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $red;
+  border-bottom: none;
 }
 
 .posts > .post:last-child {
