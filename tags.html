@@ -15,7 +15,7 @@ permalink: /tags/
 <div class="posts">
   {% for tag in sortedtags %}
 
-    <span class="tag-name"> &nbsp {{ tag }} &nbsp </span>
+    <span class="tag-name"> {{ tag }} </span>
 
     <article class="post">    
     {% for post in site.tags[tag] %}
