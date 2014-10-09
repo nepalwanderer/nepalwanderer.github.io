@@ -6,25 +6,27 @@ tags:
 author: nepal wanderer
 ---
 
-##### Trekking season
+#### Trekking season
 
 The best (and also the most crowded) time to trek is from mid October to November. During this time, the sky is usually very clear, and precipitation is very low. The next best season is from April to mid May, during which sky is fairly clear (but hazy at low altitudes). In April and May, the temperatures are warmer than in October and November.
 
 It is also possible to trek in December and January; Sky is expected to be crystal clear with very low precipitation, but one should be prepared for very cold conditions. At least one tea house will be open at most places. Snow conditions will dictate whether the high passes will be open or not.
 
-##### Routes
+#### Routes
 
-1. Everest base camp: Lukla - Namche Bazar - Dingboche - Lobuche - Gorakshep - Everest base camp and back to Namche Bazar - Lukla.
-2. Gokyo valley: Lukla - Namche Bazar - Dole - Machhermo - Gokyo and back to Namche Bazar - Lukla.
-3. Everest three pass circuit: Lukla - Namche Bazar - Dingboche - Chhukung - Kongma La - Lobuche - Gorakshep - Dzongla - Cho La - Gokyo - Renjo La - Thame - Namche Bazar - Lukla.
+* Everest base camp: Lukla - Namche Bazar - Dingboche - Lobuche - Gorakshep - Everest base camp and back to Namche Bazar - Lukla.
+* Gokyo valley: Lukla - Namche Bazar - Dole - Machhermo - Gokyo and back to Namche Bazar - Lukla.
+* Everest three pass circuit: Lukla - Namche Bazar - Dingboche - Chhukung - Kongma La - Lobuche - Gorakshep - Dzongla - Cho La - Gokyo - Renjo La - Thame - Namche Bazar - Lukla.
 
-##### View points and day hikes
+#### View-points and day-hikes
 
-1. Dingboche  - Nangkartshang peak (5090m) and lakes at the base of Ama Dablam.
-2. Chhukung   - Island peak base camp (~5000m), Chhukung Ri (5546m), Chhukung peak (~5800m)
-3. Gorakshep  - Kalapattar (5545m)
-4. Gokyo      - Gokyo Ri (5360m), Icy Fingers (peak near Thonak Tsho ~5350m), Knobby view (~5550m), Ngozumpa Tsho (~5200m)
-5. Thame      - Sumdur peak
+* Dingboche  - Nangkartshang peak (5090m) and lakes at the base of Ama Dablam.
+* Chhukung   - Island peak base camp (~5000m), Chhukung Ri (5546m), Chhukung peak (~5800m)
+* Gorakshep  - Kalapattar (5545m)
+* Gokyo      - Gokyo Ri (5360m), Icy Fingers (peak near Thonak Tsho ~5350m), Knobby view (~5550m), Ngozumpa Tsho (~5200m)
+* Thame      - Sumdur peak
+
+#### Suggested Itinerary
 
 ##### Lukla to Phakding (or Monjo or Jorsale)
 It is a short day from Lukla (2800m) to Phakding (2610m) or Monjo or Jorsale (2830m). One can even reach Namche Bazar (3420m) in a long day from Lukla.
@@ -62,9 +64,9 @@ It is a long walk to Thame (3750m) from Gokyo crossing the Renjo La (5345m). If 
 ##### Thame to Namche Bazar (or Phakding or Lukla)
 From Thame, it is a relaxing walk to Namche Bazar. You can continue to either Lukla or stay at any of the numerous Sherpa villages between Namche and Lukla. Thame is also a very nice place to stay - one can explore the upper Thame valley or climb the Sumdur peak.
 
-##### Additional challenging routes
+#### Additional challenging routes
 
-1. Lukla - Mera Peak - Amphu Lapcha - Island peak - Chhukung
-2. Makalu base camp - Sherpani col - West col - Amphu Lapcha - Chhukung
-3. Rolwaling valley - Tashi Lapcha - Thame
+* Lukla - Mera Peak - Amphu Lapcha - Island peak - Chhukung
+* Makalu base camp - Sherpani col - West col - Amphu Lapcha - Chhukung
+* Rolwaling valley - Tashi Lapcha - Thame
 

@@ -21,6 +21,11 @@ title: Blog
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
+      {% if post.more-info %}
+      <a href="{{ site.baseurl }}{{ post.more-info }}" class="notes"> Notes and Summary </a>
+      {% endif %}
+
     </article>
 
     {% endif %}
